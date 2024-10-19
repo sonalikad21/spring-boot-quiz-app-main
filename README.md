@@ -11,6 +11,7 @@ REST APIs to interact with the frontend.
 MySQL Database for storing quiz data and user scores.
 Dynamic routing and state management using React Router.
 A scoreboard to track top scores.
+---
 Tech Stack:
 Frontend: React, Bootstrap, HTML/CSS
 Backend: Spring Boot, Thymeleaf
